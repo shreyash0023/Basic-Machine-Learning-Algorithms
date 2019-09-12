@@ -17,7 +17,7 @@ HOW TO RUN THE CODE
 
 Command
 -------
-python3 naive_bayes.py <tarining_file_path> <testing_file_path>
+python3 naive_bayes.py <training_file_path> <testing_file_path>
 
 Example:
 	python3 /Users/shreyashshrivastava/Desktop/ML\ HW\ 1\ -\ Final/naive_bayes.py /Users/shreyashshrivastava/Desktop/ML\ HW\ 1\ -\ Final/yeast_training.txt /Users/shreyashshrivastava/Desktop/ML\ HW\ 1\ -\ Final/yeast_test.txt 	
